@@ -96,7 +96,7 @@ wmi.getall[root\cimv2,"SELECT ID,Name,LicenseStatus,GracePeriodRemaining FROM So
 
 ```text
 .
-└─ template_office_family_kms_wmi_lld.yaml
+└─ template_office_kms_wmi_lld.yaml
 ```
 
 ---
