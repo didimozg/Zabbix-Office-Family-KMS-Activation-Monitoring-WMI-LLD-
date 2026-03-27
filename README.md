@@ -297,7 +297,7 @@ Office 16, Office16ProPlusVL_KMS_Client edition: License state = Licensed
 Office 16, Office16VisioProVL_KMS_Client edition: Days until activation expiry = 177.0 d
 Office 16, Office16ProjectProVL_KMS_Client edition: Days until activation expiry = 177.0 d
 ```
-<img width="1237" height="343" alt="изображение" src="https://github.com/user-attachments/assets/35c7b9a6-7e6e-48e4-b3aa-c1049160825b" />
+<img width="1237" height="343" alt="screenshot" src="https://github.com/user-attachments/assets/35c7b9a6-7e6e-48e4-b3aa-c1049160825b" />
 
 ---
 
